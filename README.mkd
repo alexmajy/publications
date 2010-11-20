@@ -1,0 +1,3 @@
+This project maintains Junyan Ma's two publication lists (English
+version and Chinese versin) and relevant [BibTex](http://www.bibtex.org/) entries.
+
