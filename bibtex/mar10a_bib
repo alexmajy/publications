@@ -1,0 +1,10 @@
+@inproceedings{MaR10a,
+    author = {Ma, Junyan and R\"{o}mer, Kay},
+    title = {Visibility Levels: Managing the Tradeoff between Visibility and Resource Consumption},
+    booktitle = {Proceedings of the workshop on Real-world wireless sensor networks},
+    series = {REALWSN '10},
+    year = {2010},
+    location = {Colombo, Sri Lanka},
+    publisher = {Springer-Verlag},
+    address = {Berlin, Heidelberg},
+}

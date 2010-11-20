@@ -1,0 +1,9 @@
+@inproceedings{BeR10,
+    author = {Alexander Bernauer and Kay R{\"o}mer and Silvia Santini and Junyan Ma},
+    title = {Threads2Events: An Automatic Code Generation Approach},
+    booktitle = {Proceedings of the 6th Workshop on Hot Topics in Embedded Networked Sensors },
+    series = {HotEMNETS '10},
+    year = {2010},
+    location = {Killarney, Ireland},
+}
+

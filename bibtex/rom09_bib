@@ -1,0 +1,16 @@
+@inproceedings{RoM09,
+    author = {R\"{o}mer, Kay and Ma, Junyan },
+    title = {PDA: Passive distributed assertions for sensor networks},
+    booktitle = {Proceedings of the 2009 International Conference on Information Processing in Sensor Networks},
+    series = {IPSN '09},
+    year = {2009},
+    isbn = {978-1-4244-5108-1},
+    pages = {337--348},
+    numpages = {12},
+    url = {http://portal.acm.org/citation.cfm?id=1602165.1602196},
+    acmid = {1602196},
+    publisher = {IEEE Computer Society},
+    address = {Washington, DC, USA},
+}
+
+

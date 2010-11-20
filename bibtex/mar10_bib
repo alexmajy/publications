@@ -1,0 +1,17 @@
+@inproceedings{MaR10,
+    author = {Ma, Junyan and R\"{o}mer, Kay},
+    title = {Balancing visibility and resource consumption for long-term monitoring of sensornets},
+    booktitle = {Proceedings of the 8th ACM Conference on Embedded Networked Sensor Systems},
+    series = {SenSys '10},
+    year = {2010},
+    isbn = {978-1-4503-0344-6},
+    location = {Z\"{u}rich, Switzerland},
+    pages = {435--436},
+    numpages = {2},
+    url = {http://doi.acm.org/10.1145/1869983.1870061},
+    doi = {http://doi.acm.org/10.1145/1869983.1870061},
+    acmid = {1870061},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+}
+
